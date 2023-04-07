@@ -1,0 +1,31 @@
+/* in this file you can define global styles */
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html.dark {
+  background: #121212;
+}
+
+
+/* change browser scrollbar style*/
+::-webkit-scrollbar {
+  scroll-behavior: smooth;
+  width: 8px !important;
+  height: 0px !important;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: #ffffff !important;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0px;
+  background-color: #B3B3B3;
+}
