@@ -3,8 +3,8 @@
 </h2>
 
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/76614968/220366727-b1e971a5-cb33-4058-8d45-45e49fd7cb23.png' alt='REST Countries API' width='500'/>
-  <img src='https://user-images.githubusercontent.com/76614968/220366737-330340e2-76a6-4737-9d51-b232b21a342c.png' alt='REST Countries API' width='500'/>
+  <img src='https://user-images.githubusercontent.com/76614968/230565116-7e842091-403f-44ec-a26f-961a3ab436df.png' alt='REST Countries API' width='500'/>
+  <img src='https://user-images.githubusercontent.com/76614968/230565112-3a1e67f8-53b8-4a58-b3b2-0082d82e944c.png' alt='REST Countries API' width='500'/>
 </p>
 
 <br>
